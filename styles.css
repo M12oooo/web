@@ -1,0 +1,19 @@
+body{
+  background: #eaf6f6;
+}
+h1{
+  color: #66bfbf;
+}
+h3{
+  border: black;
+  color: #66bfbf}
+h2{
+  color: #49ffff;
+}
+hr{
+  height: 2px;
+  border-style: dashed;
+  background-color: grey;
+  height: 1px;
+  width: 60%;
+}
